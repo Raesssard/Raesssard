@@ -3,7 +3,7 @@
 I'm **Fiqrie Raeshard Sopian**  
 A student at **SMKN 1 Subang**, majoring in **Software Engineering**.  
 Currently learning JavaScript & React, I want to be **Someone** in this world and not only live and then leave nothing behind.  
-I once heard someone say, *"I’d rather be the lowest among the great than the greatest among the mediocre."*  
+I once heard a wise man say, *"I’d rather be the lowest among the great than the greatest among the mediocre."*  
 But then I thought, *"Why not strive to be the best among the best?"*
 
 ---
