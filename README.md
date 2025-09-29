@@ -7,6 +7,11 @@ I once heard someone say, *"I’d rather be the lowest among the great than the 
 But then I thought, *"Why not strive to be the best among the best?"*
 
 ---
+### 📫 Connect with me
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/1874190429)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nfelisx)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfelisx@gmail.com)
+
 
 ### 📊 GitHub Stats
 ![Fiqrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raesssard&show_icons=true&theme=tokyonight)
