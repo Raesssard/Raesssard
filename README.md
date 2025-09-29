@@ -16,6 +16,7 @@ But then I thought, *"Why not strive to be the best among the best?"*
 
 ### 📂 Featured Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raesssard&repo=Toko-Buku&theme=tokyonight)](https://github.com/Raesssard/Siwar-Migrate-Next-Inertia)
+This is currently my first big project, i still working on the next one, probably gonna change this one after the new one complete
 
 ### 🛠️ Tech Stack
 
