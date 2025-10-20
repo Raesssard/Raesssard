@@ -14,13 +14,14 @@ But then I thought, *"Why not strive to be the best among the best?"*
 
 
 ### 📊 GitHub Stats
-![Fiqrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raesssard&show_icons=true&theme=tokyonight)
+![Fiqrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raesssard&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60)
 
 ### 🔥 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raesssard&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raesssard&layout=compact&theme=tokyonight&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📂 Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raesssard&repo=Toko-Buku&theme=tokyonight)](https://github.com/Raesssard/Toko-Buku)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raesssard&repo=Toko-Buku&theme=tokyonight&cache_seconds=60)](https://github.com/Raesssard/Toko-Buku)
+
 This is currently my first big project, i still working on the next one, probably gonna change when the new one done
 
 ### 🛠️ Tech Stack
