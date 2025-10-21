@@ -14,7 +14,7 @@ But then I thought, *"Why not strive to be the best among the best?"*
 
 
 ### 📊 GitHub Stats
-![Fiqrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raesssard&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60)
+![Fiqrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raesssard&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=60)
 
 ### 🔥 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raesssard&layout=compact&theme=tokyonight&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
